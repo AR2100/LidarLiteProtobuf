@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/mbed/external/nanopb/pb.h
+stdint.h
+-
+stddef.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/andrew/Programming/RoboNav/igvc-firmware/build/src/mbed/igvc.pb.c
+igvc.pb.h
+/home/andrew/Programming/RoboNav/igvc-firmware/build/src/mbed/igvc.pb.h
+
+/home/andrew/Programming/RoboNav/igvc-firmware/build/src/mbed/igvc.pb.h
+pb.h
+-
+

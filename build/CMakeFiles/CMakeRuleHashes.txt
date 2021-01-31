@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+c9a804b58a8a2d623bf05e0ff7ea9d05 nanopb/generator/nanopb_generator.py
+f9d6132648ec2e12e7b2f25e2baed644 nanopb/generator/proto/nanopb_pb2.py
+cf81e052788717afd13a84ace3d54b67 nanopb/generator/proto/plugin_pb2.py
+436f5c87ab96b64c363bdb3768ce8d3e src/mbed/igvc.pb.c

@@ -1,0 +1,23 @@
+CMakeFiles/mbed_lib.dir/external/mbed-os/features/nfc/source/nfc/NFCNDEFCapable.cpp.o: \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/source/nfc/NFCNDEFCapable.cpp \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/mbed_config.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/nfc/NFCNDEFCapable.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/platform/Span.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/platform/mbed_assert.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/platform/mbed_preprocessor.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/platform/mbed_toolchain.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/nfc/NFCDefinitions.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/acore/acore/ac_buffer.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/stack/ndef/ndef.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/stack/nfc_common.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/stack/platform/nfc_debug.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/acore/acore/ac_macros.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/acore/acore/ac_buffer_reader.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/acore/acore/ac_buffer_builder.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/acore/acore/ac_stream.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/acore/acore/ac_buffer.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/acore/acore/ac_buffer_reader.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/acore/acore/ac_buffer_builder.h \
+ /home/andrew/Programming/RoboNav/igvc-firmware/src/mbed/external/mbed-os/features/nfc/stack/ndef/ndef.h
